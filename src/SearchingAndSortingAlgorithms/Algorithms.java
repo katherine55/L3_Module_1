@@ -2,10 +2,13 @@ package SearchingAndSortingAlgorithms;
 
 import java.util.List;
 
-public class Algorithms {
+public class Algorithms extends SearchingAndSortingAlgorithms {
+	
 	public static int findBrokenEgg(List<String> eggs) {
-		return 0; //<- this needs changing
+		
+		for(int i = 0; i< eggs.size(); i++) {}
+		
+		return 0;
 	}
 	
-	//Add other methods here
 }
